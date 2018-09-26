@@ -131,3 +131,7 @@ Una copia de la licencia se puede encontrar en http://www.gnu.org/copyleft/fdl.h
 |===
 
 // end::metadata-table[]
+
+== Cómo contribuir
+
+Ver link:./CONTRIBUTING.adoc[].

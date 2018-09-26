@@ -131,3 +131,7 @@ Una còpia de la llicència es pot trobar a http://www.gnu.org/copyleft/fdl.html
 |===
 
 // end::metadata-table[]
+
+== Com contribuir
+
+See link:./CONTRIBUTING.adoc[].
