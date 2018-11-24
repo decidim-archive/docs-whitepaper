@@ -41,4 +41,4 @@ include::{partialsdir}/CONTRIBUTING.adoc[tag=contents]
 // (3/3) ADD BELOW THE LIST OF REGULAR CHAPTERS OR SECTIONS. IMPORTANT: PUT A
 // BLANK LINE BETWEEN INCLUDES.
 
-include::introduction.adoc[]
+include::decidim-a-brief-overview.adoc[]
