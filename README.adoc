@@ -7,10 +7,10 @@
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Decidim: political and technopolitical networks for participatory democracy.
 
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle:  White Paper
 
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
@@ -24,19 +24,19 @@
 
 // MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
-:authors: Decidim Team
+:authors: Xabier E. Barandiaran & Antonio Calleja-López
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_editors:
+:_editors: Xabier E. Barandiaran & Antonio Calleja-López
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Eloy Caloca Lafont, Pablo Aragón, Guillem Marpons
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_proofreaders:
+:_proofreaders: María Haberer, Ramón Fenstra
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -44,15 +44,15 @@
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: Decidim [http://decidim.org], from the Catalan for "let's decide" or “we decide”, is a digital infrastructure for participatory democracy, built entirely and collaboratively as free software. More specifically, Decidim is a web environment (a framework) produced in Ruby on Rails (a programming language) that allows anybody to create and configure a website platform, to be used in the form of a political network for democratic participation. The platform allows any organization (local city council, association, university, NGO, neighbourhood or cooperative) to create mass processes for strategic planning, participatory budgeting, collaborative design for regulations, urban spaces and election processes. It also makes possible to connect traditional in-person democratic meetings (assemblies, council meetings, etc.) with the digital world: sending meeting invites, managing registrations, streaming content, facilitating the publication of meeting minutes, etc. In addition, Decidim enables the structuring of government bodies or assemblies (councils, boards, working groups), the convening of consultations, referendums or channelling citizen or member initiatives to trigger different decision making processes. However, the Decidim project is much more than its technological features. Decidim is in itself a sort of crossroad of the various dimensions of networked democracy and society, a detailed practical map of their complexities and conflicts. We distinguish three general planes or dimensions of the project: the political (focused on the democratic model that Decidim promotes and its impact on public policies and organizations), the technopolitical (focused on how the platform is designed, the mechanisms it embodies, and the way in which it is democratically designed), and the technical (focused on the conditions of production, operation and success of the project: the factory, collaborative mechanisms, licenses, etc.).
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: decidim, participatory democracy, free software, open source, cities, organizations
+:keywords: Decidim, participatory democracy, digital platforms, political networks, free software, public-commons partnership, social innovation, democratic innovation
 
 // OPTIONAL. Document's history. Do not intercalate empty lines.
-:_dochistory:
+:_dochistory: This document begun to be written in March 2018 by Xabier Barandiaran and Antonio Calleja-López. Both designed the conceptual structure of the document. Then, the former took the lead in writing passages presenting the core elements of Decidim while the latter took the lead in the historical and theoretical passages. Both of them discussed and heavily intervened in each other’s sections. Then, Arnau Monterde carried on a review of and intervened in various sections (specially from 3.4 onward), and was thereby added as co-author. Eloy Caloca contributed to the discussion on datacracy. Pablo Aragón drafted the section on laboratories.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
