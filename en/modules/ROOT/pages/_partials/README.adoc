@@ -7,7 +7,7 @@
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle: Decidim: political and technopolitical networks for participatory democracy.
+:doctitle: Decidim: political and technopolitical networks for participatory democracy
 
 // OPTIONAL. Subtitle of the document.
 :_subtitle:  White Paper
