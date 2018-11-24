@@ -1,4 +1,17 @@
-== What is Decidim?
+= What is Decidim?
+
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
 
 *Video*. https://www.youtube.com/watch?v=zhMMW0TENNA[https://www.youtube.com/watch?v=zhMMW0TENNA]
 
