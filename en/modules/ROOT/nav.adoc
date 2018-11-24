@@ -6,11 +6,7 @@
 
 
 .Contents
-* xref:introduction.adoc[Introduction]
-* Second section
-** Subsection A
-** Subsection B
-* Third section
+* xref:decidim-a-brief-overview.adoc[Decidim: a brief overview]
 
 .Other formats
 * xref:single-page.adoc[Single page (HTML)]
