@@ -1,13 +1,12 @@
 // Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
-.Information
-* xref:doc-info.adoc[Document information]
-* xref:contributing.adoc[Authorship criteria and how to contribute to this document]
-
-
-.Contents
 * xref:decidim-a-brief-overview.adoc[Decidim: a brief overview]
-
-.Other formats
-* xref:single-page.adoc[Single page (HTML)]
-* [.pdf-download-button]#PDF#
+// ** How to Decidim: Barcelona’s participatory strategic planning as a case study [_comming soon_]
+* The political plane: Decidim as a participatory democracy (eco)system [_comming soon_]
+* Decidim: technopolitical plane [_comming soon_]
+* Decidim: technical plane [_comming soon_]
+* Discussion [_comming soon_]
+* Conclusion [_comming soon_]
+* References [_comming soon_]
+* xref:doc-info.adoc[_Document information_]
+* xref:contributing.adoc[_Authorship criteria and how to contribute to this document_]
